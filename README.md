@@ -8,7 +8,7 @@ Using SQL Server, I performed data validation, exploratory data analysis, KPI an
 
 ## Business Problem
 
-The marketing team noticed that campaign efficiency declined during the second half of the campaign.
+The marketing team noticed that campaign efficiency declined for some campaigns during the second half of the 12-week time period.
 
 The objectives of this analysis were to determine:
 

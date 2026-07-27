@@ -12,7 +12,6 @@ The marketing team noticed that campaign efficiency declined during the second h
 
 The objectives of this analysis were to determine:
 
-- Why Cost per Enrollment (CPE) increased over time
 - Which campaigns and ad groups drove the decline
 - Whether inventory mix contributed to worsening performance
 - Whether creative fatigue affected results

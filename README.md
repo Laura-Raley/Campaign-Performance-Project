@@ -43,20 +43,15 @@ Fields include:
 - SQL Server
 - Power BI
 
-## Skills Demonstrated
+## Analysis Process
 
-- Database design
-- Data validation
-- Data cleaning
-- Aggregate functions
-- GROUP BY
-- HAVING
-- CASE statements
-- Common Table Expressions (CTEs)
-- Window Functions
-- KPI calculations
-- Business analysis
-- Data storytelling
+1. Data quality validation
+2. Exploratory data analysis
+3. Weekly performance trends
+4. Ad group analysis
+5. Inventory source analysis
+6. Creative performance analysis
+7. Final recommendations
 
 ## Key Questions Answered
 

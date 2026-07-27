@@ -34,7 +34,8 @@ Fields include:
 - Leads
 - Enrollments
 - Bids
-- Average Bid CPM
+- Total Bid Amount
+- Ad Plays
 
 
 ## Tools Used

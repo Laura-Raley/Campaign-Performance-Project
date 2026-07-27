@@ -61,6 +61,26 @@ Fields include:
 - How did performance change over the 12-week campaign?
 - What recommendations would improve future performance?
 
+## Exploratory Data Analysis
+
+The initial analysis focused on evaluating overall campaign performance across a 12-week period. Key performance indicators (KPIs) including Spend, Impressions, Clicks, Leads, Enrollments, CPM, CTR, CPL, CPE, Win Rate, and Average Bid CPM were calculated to establish baseline performance.
+
+To identify meaningful changes over time, the dataset was divided into two six-week periods:
+
+First Half (Weeks 1–6)  
+Second Half (Weeks 7–12)
+
+Comparing campaign performance between these periods revealed that:
+
+| Campaign | First Half CPE | Second Half CPE | Trend |
+|----------|---------------:|----------------:|-------|
+| Healthcare Training | $869.66 | $708.77 | Improved |
+| High School Diploma | $1,308.66 | $1,094.52 | Improved |
+| Skilled Trades | $11,984.47 | $24,661.19 | Declined |
+| Veterinary Technician | $1,544.10 | $1,800.16 | Declined |
+
+While Healthcare Training and High School Diploma became more efficient, Skilled Trades and Veterinary Technician experienced higher Cost per Enrollment (CPE) during the second half of the campaign. These findings established the focus for the next phase of the analysis.
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

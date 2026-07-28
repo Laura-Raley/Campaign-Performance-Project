@@ -138,6 +138,10 @@ Cross-analysis of inventory source and creative confirmed that the Native declin
 
 Graduate Story Static was more resilient, including substantial improvement on GameSphere during the decline period. Overall, the results suggest that **neither inventory nor creative alone explains the decline; specific inventory-creative combinations contributed to weaker enrollment efficiency**.
 
+### Skilled Trades Campaign
+
+
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

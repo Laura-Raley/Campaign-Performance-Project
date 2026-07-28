@@ -22,6 +22,9 @@ The objectives of this analysis were to determine:
 The dataset contains 6,624 records representing weekly advertising performance across multiple campaigns.
 
 Fields include:
+
+- Week Start
+- Week Number
 - Campaign
 - Ad Group
 - Inventory Source
@@ -35,7 +38,6 @@ Fields include:
 - Bids
 - Total Bid Amount
 - Ad Plays
-
 
 ## Tools Used
 
@@ -96,8 +98,6 @@ Ad group analysis showed that **Native was the primary enrollment-driving tactic
 
 CTV and OLV generated no enrollments in either period and therefore were not the primary cause of the Week 10 performance shift.
 
-The next stage of analysis investigates Native inventory sources to determine whether changes in inventory mix or source-level performance contributed to the decline.
-
 #### Native Inventory Analysis
 
 Inventory analysis showed that the Native decline was driven by a combination of **inventory mix shifts and weaker source-level lead-to-enrollment conversion**. DailyNews Network and OpenWeb Media, two of the strongest enrollment performers before the decline, lost spend share and became less efficient during Weeks 10–12. Lifestyle Today also experienced a substantial decline in conversion efficiency.
@@ -149,6 +149,10 @@ Rather than identifying a single decline point, the analysis suggests that Skill
 Ad-group analysis showed that **Native was the only tactic generating enrollments and was the primary driver of the campaign's higher second-half CPE**. Native spend and lead volume increased, but enrollments declined from 9 to 5, causing CPE to rise from **$4,174.55 to $10,591.88** and lead-to-enrollment rate to fall from **1.23% to 0.58%**.
 
 CTV, OLV, and Streaming Audio generated no enrollments in either half of the campaign. Native's CPM, Win Rate, and Average Bid CPM remained relatively stable, indicating that the decline was driven more by **weaker lead-to-enrollment conversion than by worsening media costs or auction conditions**.
+
+#### Native Inventory Analysis
+
+
 
 ## Dashboard Preview
 

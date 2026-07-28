@@ -132,6 +132,12 @@ In contrast, **Graduate Story Static remained efficient**, with CPE improving sl
 | Tuition Value Static | Pre-Decline | 33.14% | $596.51 | 8.33% |
 | Tuition Value Static | Decline Period | 30.58% | $1,383.84 | 4.09% |
 
+#### Inventory × Creative Analysis
+
+Cross-analysis of inventory source and creative confirmed that the Native decline was driven by a combination of **source-level deterioration and creative performance**. DailyNews Network experienced weaker lead-to-enrollment conversion across all three creatives, indicating a broader decline in inventory quality. Meanwhile, Career Change Static and Tuition Value Static underperformed across multiple inventory sources.
+
+Graduate Story Static was more resilient, including substantial improvement on GameSphere during the decline period. Overall, the results suggest that **neither inventory nor creative alone explains the decline; specific inventory-creative combinations contributed to weaker enrollment efficiency**.
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

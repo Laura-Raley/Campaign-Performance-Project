@@ -171,7 +171,18 @@ The higher-spend sources generated relatively few enrollments, while DailyNews N
 
 #### Native Creative Analysis
 
+Creative analysis showed mixed performance across Native creatives. **Career Change Static showed the clearest deterioration**, with spend share increasing from 33.81% to 35.20% while enrollments fell from four to zero. Tuition Value Static also became less efficient, with CPE increasing from $3,207.63 to $8,593.70 and lead-to-enrollment rate declining from 1.66% to 0.66%.
 
+In contrast, Graduate Story Static improved, with CPE declining from $12,036.00 to $5,710.93 and lead-to-enrollment rate increasing from 0.42% to 0.99%. Overall, creative performance likely contributed to the Native decline, but **low enrollment volume makes creative-level CPE highly volatile and limits the strength of the conclusions**.
+
+| Creative | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
+|:---------|:----------------|------------:|----:|------------------------:|
+| Career Change Static | First Half | 33.81% | $3,176.11 | 1.59% |
+| Career Change Static | Second Half | 35.20% | — | 0.00% |
+| Graduate Story Static | First Half | 32.04% | $12,036.00 | 0.42% |
+| Graduate Story Static | Second Half | 32.35% | $5,710.93 | 0.99% |
+| Tuition Value Static | First Half | 34.15% | $3,207.63 | 1.66% |
+| Tuition Value Static | Second Half | 32.45% | $8,593.70 | 0.66% |
 
 ## Dashboard Preview
 

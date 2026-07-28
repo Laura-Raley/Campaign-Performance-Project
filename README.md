@@ -81,6 +81,12 @@ Comparing campaign performance between these periods revealed that:
 
 While Healthcare Training and High School Diploma became more efficient, Skilled Trades and Veterinary Technician experienced higher Cost per Enrollment (CPE) during the second half of the campaign. These findings established the focus for the next phase of the analysis.
 
+## Diagnostic Data Analysis
+
+### Veterinary Technician Campaign
+
+
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

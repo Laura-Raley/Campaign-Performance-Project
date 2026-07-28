@@ -117,6 +117,21 @@ Meanwhile, spend shifted toward GameSphere and Tail Aggregate. Both sources impr
 | Tail Aggregate | Pre-Decline | 23.86% | $1,227.12 | 4.90% |
 | Tail Aggregate | Decline Period | 31.94% | $1,011.74 | 7.19% |
 
+#### Native Creative Analysis
+
+Creative performance showed that the Native decline was concentrated in **Career Change Static** and **Tuition Value Static**. Both creatives experienced sharp declines in lead-to-enrollment conversion, which drove significantly higher CPE during the decline period. Career Change Static was particularly impactful because its spend share increased slightly while CPE rose from **$632.95 to $1,912.51**.
+
+In contrast, **Graduate Story Static remained efficient**, with CPE improving slightly and lead-to-enrollment rate increasing from 8.52% to 9.42%.
+
+| Creative | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
+|:---------|:----------------|------------:|----:|------------------------:|
+| Career Change Static | Pre-Decline | 34.29% | $632.95 | 8.41% |
+| Career Change Static | Decline Period | 36.22% | $1,912.51 | 3.92% |
+| Graduate Story Static | Pre-Decline | 32.56% | $601.10 | 8.52% |
+| Graduate Story Static | Decline Period | 33.20% | $584.36 | 9.42% |
+| Tuition Value Static | Pre-Decline | 33.14% | $596.51 | 8.33% |
+| Tuition Value Static | Decline Period | 30.58% | $1,383.84 | 4.09% |
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

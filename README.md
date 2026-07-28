@@ -140,7 +140,15 @@ Graduate Story Static was more resilient, including substantial improvement on G
 
 ### Skilled Trades Campaign
 
+Weekly analysis showed that the Skilled Trades campaign had **very low enrollment volume, resulting in highly volatile CPE**. Weekly enrollments ranged from 0–4, making individual week-over-week CPE changes unreliable as indicators of a sustained performance shift.
 
+However, a notable pattern emerged in the second half of the campaign. **Weeks 7–10 generated zero enrollments despite continued spend and relatively stable lead volume**. Enrollments returned in Weeks 11–12.
+
+Rather than identifying a single decline point, the analysis suggests that Skilled Trades' higher second-half CPE was primarily associated with **inconsistent lead-to-enrollment conversion and low enrollment volume**, rather than a clear deterioration in lead-generation efficiency or media costs.
+
+Ad-group analysis showed that **Native was the only tactic generating enrollments and was the primary driver of the campaign's higher second-half CPE**. Native spend and lead volume increased, but enrollments declined from 9 to 5, causing CPE to rise from **$4,174.55 to $10,591.88** and lead-to-enrollment rate to fall from **1.23% to 0.58%**.
+
+CTV, OLV, and Streaming Audio generated no enrollments in either half of the campaign. Native's CPM, Win Rate, and Average Bid CPM remained relatively stable, indicating that the decline was driven more by **weaker lead-to-enrollment conversion than by worsening media costs or auction conditions**.
 
 ## Dashboard Preview
 

@@ -54,11 +54,9 @@ Fields include:
 
 ## Key Questions Answered
 
-- Which campaigns generated the highest enrollment volume?
-- Which campaigns were the most cost efficient?
+- Which campaigns contributed to the dip in performance?
 - Which inventory sources underperformed?
 - Which creatives showed signs of fatigue?
-- How did performance change over the 12-week campaign?
 - What recommendations would improve future performance?
 
 ## Exploratory Data Analysis

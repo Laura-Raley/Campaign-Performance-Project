@@ -152,6 +152,25 @@ CTV, OLV, and Streaming Audio generated no enrollments in either half of the cam
 
 #### Native Inventory Analysis
 
+Inventory analysis showed a clear **shift in spend toward GameSphere and Tail Aggregate during the second half**. Their combined spend share increased from roughly 40% to 60%, while DailyNews Network, Lifestyle Today, and OpenWeb Media lost share.
+
+The higher-spend sources generated relatively few enrollments, while DailyNews Network—one of the stronger first-half sources—produced no enrollments in the second half. This suggests that **inventory mix contributed to the decline in Native enrollment efficiency**, although low enrollment volume makes source-level CPE highly volatile.
+
+| Inventory Source | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
+|:-----------------|:----------------|------------:|----:|------------------------:|
+| DailyNews Network | First Half | 19.71% | $925.79 | 4.85% |
+| DailyNews Network | Second Half | 10.73% | — | 0.00% |
+| GameSphere | First Half | 20.04% | — | 0.00% |
+| GameSphere | Second Half | 30.82% | $16,320.22 | 0.46% |
+| Lifestyle Today | First Half | 20.14% | — | 0.00% |
+| Lifestyle Today | Second Half | 14.43% | $7,643.00 | 0.69% |
+| OpenWeb Media | First Half | 20.08% | $7,542.91 | 0.61% |
+| OpenWeb Media | Second Half | 14.92% | $7,901.41 | 0.63% |
+| Tail Aggregate | First Half | 20.03% | — | 0.00% |
+| Tail Aggregate | Second Half | 29.10% | $7,705.21 | 0.89% |
+
+#### Native Creative Analysis
+
 
 
 ## Dashboard Preview

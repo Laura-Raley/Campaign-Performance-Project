@@ -100,6 +100,25 @@ CTV and OLV generated no enrollments in either period and therefore were not the
 
 The next stage of analysis investigates Native inventory sources to determine whether changes in inventory mix or source-level performance contributed to the decline.
 
+#### Native Inventory Analysis
+
+Inventory analysis showed that the Native decline was driven by a combination of **inventory mix shifts and weaker source-level lead-to-enrollment conversion**. DailyNews Network and OpenWeb Media, two of the strongest enrollment performers before the decline, lost spend share and became less efficient during Weeks 10–12. Lifestyle Today also experienced a substantial decline in conversion efficiency.
+
+Meanwhile, spend shifted toward GameSphere and Tail Aggregate. Both sources improved their CPE and lead-to-enrollment rates during the decline period, partially offsetting deterioration elsewhere. Overall, the results suggest that the Native CPE increase was driven by **changes in inventory allocation and declining conversion performance among previously strong inventory sources**.
+
+| Inventory Source | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
+|:-----------------|:----------------|------------:|----:|------------------------:|
+| DailyNews Network | Pre-Decline | 16.74% | $280.17 | 14.88% |
+| DailyNews Network | Decline Period | 9.72% | $1,540.29 | 3.28% |
+| GameSphere | Pre-Decline | 23.17% | $2,780.03 | 2.28% |
+| GameSphere | Decline Period | 30.80% | $1,393.74 | 5.04% |
+| Lifestyle Today | Pre-Decline | 17.83% | $802.25 | 5.97% |
+| Lifestyle Today | Decline Period | 14.18% | $1,497.44 | 3.45% |
+| OpenWeb Media | Pre-Decline | 18.40% | $339.61 | 13.18% |
+| OpenWeb Media | Decline Period | 13.36% | $470.44 | 10.11% |
+| Tail Aggregate | Pre-Decline | 23.86% | $1,227.12 | 4.90% |
+| Tail Aggregate | Decline Period | 31.94% | $1,011.74 | 7.19% |
+
 ## Dashboard Preview
 
 (We'll insert screenshots here once the Power BI dashboard is complete.)

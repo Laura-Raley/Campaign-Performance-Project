@@ -189,4 +189,18 @@ Cross-analysis of inventory source and creative showed that the **Native decline
 
 ## Final Recommendations
 
-(We'll complete this section after finishing the analysis.)
+### Veterinary Technician
+
+- **Prioritize Native optimization**, as it was the primary driver of the campaign decline.
+- Review Native inventory allocation, particularly sources that gained spend while producing weaker enrollment efficiency.
+- Reduce reliance on weaker creatives such as **Career Change** and **Tuition Value**, while maintaining or increasing support for **Graduate Story**, which remained comparatively resilient.
+- Continue monitoring lead-to-enrollment rate closely, since the decline was driven more by downstream conversion efficiency than by media costs or auction conditions.
+
+### Skilled Trades
+
+- **Prioritize Native optimization**, where second-half CPE increased substantially as lead-to-enrollment conversion weakened.
+- Shift spend away from weaker inventory sources such as **GameSphere** and **Tail Aggregate** when their enrollment efficiency remains poor, and consider increasing support for stronger-performing inventory such as **OpenWeb Media**.
+- Reduce spend behind **Career Change Static** and **Tuition Value Static**, which deteriorated across multiple inventory sources.
+- Maintain or increase support for **Graduate Story Static**, which remained the strongest and most consistent Native creative in the second half.
+- Treat **DailyNews Network** cautiously, as performance deteriorated across all creatives in the second half, suggesting a broader source-level issue.
+- Continue evaluating performance primarily through **CPE and lead-to-enrollment rate**, since CPM, CTR, Win Rate, and Average Bid CPM remained relatively stable and did not explain the decline.

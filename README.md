@@ -4,11 +4,11 @@
 
 This project analyzes the performance of a fictional 12-week digital advertising campaign for an education company. The objective was to identify the factors contributing to declining enrollment efficiency and provide data-driven recommendations to improve campaign performance.
 
-Using SQL Server, I performed data validation, exploratory data analysis, KPI analysis, and performance investigations across campaigns, inventory sources, creatives, and devices.
+Using SQL Server, I performed data validation, exploratory data analysis, diagnostic analysis, and performance investigations across campaigns, inventory sources and creatives.
 
 ## Business Problem
 
-The marketing team noticed that campaign efficiency declined for some campaigns during the second half of the 12-week time period.
+The marketing team noticed that campaign efficiency declined during the second half of the 12-week time period.
 
 The objectives of this analysis were to determine:
 

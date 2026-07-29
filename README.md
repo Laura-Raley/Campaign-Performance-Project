@@ -139,49 +139,49 @@ Graduate Story Static was more resilient, including substantial improvement on G
 
 ### Skilled Trades Campaign
 
-Weekly analysis showed that the Skilled Trades campaign had **very low enrollment volume, resulting in highly volatile CPE**. Weekly enrollments ranged from 0–4, making individual week-over-week CPE changes unreliable as indicators of a sustained performance shift.
+Skilled Trades performance deteriorated in the second half of the campaign, with CPE increasing from $3,081.72 to $4,932.24. Looking at weekly performance, the decline became most visible beginning in Week 9, when lead-to-enrollment conversion fell sharply. Media costs and auction metrics remained relatively stable, while the campaign continued to generate leads but converted fewer of them into enrollments. This indicates that the primary issue was downstream conversion efficiency rather than rising media costs.
 
-However, a notable pattern emerged in the second half of the campaign. **Weeks 7–10 generated zero enrollments despite continued spend and relatively stable lead volume**. Enrollments returned in Weeks 11–12.
+Ad group analysis showed that Native was the primary driver of the decline. Native CPE increased from $1,502.84 in the first half to $2,942.19 in the second half as lead-to-enrollment rate fell from 3.42% to 2.08%. CPM, CTR, Win Rate, and Average Bid CPM remained relatively stable, indicating that the deterioration was primarily driven by weaker conversion efficiency rather than media costs or auction conditions.
 
-Rather than identifying a single decline point, the analysis suggests that Skilled Trades' higher second-half CPE was primarily associated with **inconsistent lead-to-enrollment conversion and low enrollment volume**, rather than a clear deterioration in lead-generation efficiency or media costs.
-
-Ad-group analysis showed that **Native was the only tactic generating enrollments and was the primary driver of the campaign's higher second-half CPE**. Native spend and lead volume increased, but enrollments declined from 9 to 5, causing CPE to rise from **$4,174.55 to $10,591.88** and lead-to-enrollment rate to fall from **1.23% to 0.58%**.
-
-CTV, OLV, and Streaming Audio generated no enrollments in either half of the campaign. Native's CPM, Win Rate, and Average Bid CPM remained relatively stable, indicating that the decline was driven more by **weaker lead-to-enrollment conversion than by worsening media costs or auction conditions**.
+OLV and Streaming Audio also weakened but contributed substantially less enrollment volume.
 
 #### Native Inventory Analysis
 
-Inventory analysis showed a clear **shift in spend toward GameSphere and Tail Aggregate during the second half**. Their combined spend share increased from roughly 40% to 60%, while DailyNews Network, Lifestyle Today, and OpenWeb Media lost share.
+Inventory analysis showed a clear **shift in spend toward GameSphere and Tail Aggregate during the second half**, with their combined spend share increasing from roughly 40% to 60%. Both sources had relatively weak enrollment efficiency during the second half, with CPE above $5,000 and lead-to-enrollment rates below 1.5%.
 
-The higher-spend sources generated relatively few enrollments, while DailyNews Network—one of the stronger first-half sources—produced no enrollments in the second half. This suggests that **inventory mix contributed to the decline in Native enrollment efficiency**, although low enrollment volume makes source-level CPE highly volatile.
+At the same time, DailyNews Network—by far the strongest first-half source—lost nearly half its spend share and produced no second-half enrollments. OpenWeb Media improved substantially but also lost spend share. Overall, the results suggest that **a shift away from stronger inventory and toward less efficient sources contributed to the decline in Native performance**, although low source-level enrollment volume makes individual CPE results volatile.
 
 | Inventory Source | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
 |:-----------------|:----------------|------------:|----:|------------------------:|
-| DailyNews Network | First Half | 19.71% | $925.79 | 4.85% |
+| DailyNews Network | First Half | 19.71% | $352.68 | 12.73% |
 | DailyNews Network | Second Half | 10.73% | — | 0.00% |
 | GameSphere | First Half | 20.04% | — | 0.00% |
-| GameSphere | Second Half | 30.82% | $16,320.22 | 0.46% |
+| GameSphere | Second Half | 30.82% | $5,440.07 | 1.38% |
 | Lifestyle Today | First Half | 20.14% | — | 0.00% |
-| Lifestyle Today | Second Half | 14.43% | $7,643.00 | 0.69% |
-| OpenWeb Media | First Half | 20.08% | $7,542.91 | 0.61% |
-| OpenWeb Media | Second Half | 14.92% | $7,901.41 | 0.63% |
+| Lifestyle Today | Second Half | 14.43% | $1,910.75 | 2.78% |
+| OpenWeb Media | First Half | 20.08% | $1,885.73 | 2.44% |
+| OpenWeb Media | Second Half | 14.92% | $987.68 | 5.06% |
 | Tail Aggregate | First Half | 20.03% | — | 0.00% |
-| Tail Aggregate | Second Half | 29.10% | $7,705.21 | 0.89% |
+| Tail Aggregate | Second Half | 29.10% | $5,136.81 | 1.33% |
 
 #### Native Creative Analysis
 
-Creative analysis showed mixed performance across Native creatives. **Career Change Static showed the clearest deterioration**, with spend share increasing from 33.81% to 35.20% while enrollments fell from four to zero. Tuition Value Static also became less efficient, with CPE increasing from $3,207.63 to $8,593.70 and lead-to-enrollment rate declining from 1.66% to 0.66%.
+Creative analysis showed a clear divergence in Native performance. **Career Change Static and Tuition Value Static deteriorated substantially in the second half**. Career Change's spend share increased slightly from 33.81% to 35.20%, but it generated no enrollments. Tuition Value's CPE increased from $1,603.82 to $17,187.40, while its lead-to-enrollment rate fell from 3.32% to 0.33%.
 
-In contrast, Graduate Story Static improved, with CPE declining from $12,036.00 to $5,710.93 and lead-to-enrollment rate increasing from 0.42% to 0.99%. Overall, creative performance likely contributed to the Native decline, but **low enrollment volume makes creative-level CPE highly volatile and limits the strength of the conclusions**.
+In contrast, **Graduate Story Static improved**, with CPE declining from $1,504.50 to $1,007.81 and lead-to-enrollment rate increasing from 3.35% to 5.63%. Overall, the results suggest that **creative performance was an important contributor to the Native decline, with weaker performance concentrated in Career Change and Tuition Value while Graduate Story remained efficient**.
 
 | Creative | Campaign Period | Spend Share | CPE | Lead-to-Enrollment Rate |
 |:---------|:----------------|------------:|----:|------------------------:|
-| Career Change Static | First Half | 33.81% | $3,176.11 | 1.59% |
+| Career Change Static | First Half | 33.81% | $1,411.60 | 3.59% |
 | Career Change Static | Second Half | 35.20% | — | 0.00% |
-| Graduate Story Static | First Half | 32.04% | $12,036.00 | 0.42% |
-| Graduate Story Static | Second Half | 32.35% | $5,710.93 | 0.99% |
-| Tuition Value Static | First Half | 34.15% | $3,207.63 | 1.66% |
-| Tuition Value Static | Second Half | 32.45% | $8,593.70 | 0.66% |
+| Graduate Story Static | First Half | 32.04% | $1,504.50 | 3.35% |
+| Graduate Story Static | Second Half | 32.35% | $1,007.81 | 5.63% |
+| Tuition Value Static | First Half | 34.15% | $1,603.82 | 3.32% |
+| Tuition Value Static | Second Half | 32.45% | $17,187.40 | 0.33% |
+
+#### Inventory × Creative Analysis
+
+
 
 ## Dashboard Preview
 

@@ -181,7 +181,7 @@ In contrast, **Graduate Story Static improved**, with CPE declining from $1,504.
 
 #### Inventory × Creative Analysis
 
-
+Cross-analysis of inventory source and creative showed that the **Native decline was driven by both inventory and creative effects**. DailyNews Network deteriorated across all creatives, indicating a source-level issue. Across other inventory sources, Graduate Story remained the most resilient creative, while Career Change and Tuition Value underperformed across multiple publishers. This suggests that the decline was not caused by a single inventory source or creative alone, but by a combination of weaker inventory allocation and poor performance from two of the three creatives.
 
 ## Dashboard Preview
 

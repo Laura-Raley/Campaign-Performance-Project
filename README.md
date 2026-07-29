@@ -85,18 +85,17 @@ While Healthcare Training and High School Diploma became more efficient, Skilled
 
 ### Veterinary Technician Campaign
 
-Weekly performance analysis identified **Week 10 as the beginning of a sustained decline in enrollment efficiency**. CPE increased from $1,379.01 in Week 9 to $2,950.47 in Week 10 and remained elevated through Week 12.
+Weekly performance analysis identified **Week 10 as the beginning of a sustained decline in enrollment efficiency**. CPE increased from $1,302.39 in Week 9 to $2,360.38 in Week 10 and remained elevated through Week 12.
 
-The decline was primarily associated with weaker lead-to-enrollment conversion rather than a significant deterioration in media delivery or auction conditions. Leads remained relatively stable, while the lead-to-enrollment rate fell from 5.61% in Week 9 to 2.71% in Week 10. CPM, CTR, Win Rate, and Average Bid CPM remained comparatively stable during this period.
+The decline was primarily associated with weaker lead-to-enrollment conversion rather than a significant deterioration in media delivery or auction conditions. Leads remained relatively stable, while the lead-to-enrollment rate fell from 5.94% in Week 9 to 3.39% in Week 10. CPM, CTR, Win Rate, and Average Bid CPM remained comparatively stable during this period.
 
 Ad group analysis showed that **Native was the primary enrollment-driving tactic and experienced a meaningful decline in efficiency**. During the decline period (Weeks 10-12):
 
 - Native CPE increased from $610.07 to $1,021.95
 - Native lead-to-enrollment rate declined from 8.42% to 6.02%
 - Native CPL increased more moderately from $51.35 to $61.52
-- Native Blog generated no enrollments during the decline period, compared with eight prior to the decline
 
-CTV and OLV generated no enrollments in either period and therefore were not the primary cause of the Week 10 performance shift.
+CTV and Native Blog also weakened, but contributed much less enrollment volume. OLV remained inefficient but was relatively stable between periods.
 
 #### Native Inventory Analysis
 
